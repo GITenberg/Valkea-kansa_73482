@@ -1,0 +1,25 @@
+_repo: Valkea-kansa_73482
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Virtala, Ilma
+    gutenberg_agent_id: '57094'
+    url: http://www.gutenberg.org/2009/agents/57094
+description: ''
+gutenberg_issued: '2024-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73482'
+language: fi
+pgterms:marc905: 20240420224307virtala
+pgterms:marc906: '1918'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Valkea kansa
+url: http://www.gutenberg.org/ebooks/73482
